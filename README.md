@@ -26,9 +26,11 @@ pip install pandas numpy nltk scikit-learn
 ```
 ## Instructions
 
-Prepare Your Environment: Ensure you have Python and the required libraries installed.
-Download the Data: Place the finalfinal_file.csv file in the same directory as the script.
-Run the Script: Execute the script to process the data and extract keywords.
+- **Prepare Your Environment**: Ensure you have Python and the required libraries installed.
+- **Download the Data**: Place the finalfinal_file.csv file in the same directory as the script.
+- **Run the Script**: Execute the script to process the data and extract keywords.
+``` bash
 python Keyword_Extraction.py
-Check the Output: The keywords will be saved in the df_selected_with_keywords2.csv file.
+```
+- **Check the Output**: The keywords will be saved in the df_selected_with_keywords2.csv file.
 
